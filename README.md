@@ -133,4 +133,3 @@ https://mystery.knightlab.com/
 
 ---
 
-⭐ If you found this interesting, feel free to fork the repo or try solving the mystery yourself!
